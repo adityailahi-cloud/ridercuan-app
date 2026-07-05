@@ -1,0 +1,12 @@
+{
+  "name": "ridercuan",
+  "version": "2.0.0",
+  "description": "Aplikasi pencatat keuangan mitra ojol & kurir",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0"
+  }
+}
